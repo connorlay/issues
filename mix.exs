@@ -16,7 +16,8 @@ defmodule Issues.Mixfile do
 
   defp deps do
     [
-      { :httpoison, "~> 0.8.0" }
+      { :httpoison, "~> 0.8.0" },
+      { :jsx,       "~> 2.0"   }
     ]
   end
 end
