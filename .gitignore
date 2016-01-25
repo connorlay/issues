@@ -6,3 +6,6 @@ erl_crash.dump
 
 # Ignore swap files
 *.swp
+
+# Ignore issues
+issues
