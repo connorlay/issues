@@ -9,3 +9,6 @@ erl_crash.dump
 
 # Ignore issues
 issues
+
+# Ignore doc
+/doc
