@@ -12,7 +12,7 @@ defmodule Issues.Mixfile do
   end
 
   def application do
-    [applications: [:logger, :httpoison]]
+    [applications: [:logger, :httpoison, :jsx]]
   end
 
   defp deps do
